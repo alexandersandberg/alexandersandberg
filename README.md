@@ -8,6 +8,6 @@ By day I work as an iOS Developer at [Practice](https://practice.do) where I, to
 
 By night I like to build [apps](https://alexandersandberg.com/apps/) that solve problems or satisfy needs that other apps haven't yet. I built [Tiny Weather](https://alexandersandberg.com/apps/tiny-weather/) because I couldn't find a beautiful, simple, privacy-minded weather app. I built [Tiny Softbox](https://alexandersandberg.com/apps/tiny-softbox/) to fix my bad office lighting. I'm working on something new as well—stay tuned!
 
-I'm a member of the [Swift Website Workgroup](https://www.swift.org/website-workgroup/) (SWWG)—a steering team that helps guide the evolution on the [Swift.org](https://www.swift.org) website.
+I'm a member of the [Swift Website Workgroup](https://www.swift.org/website-workgroup/) (SWWG)—a steering team that helps guide the evolution of the [Swift.org](https://www.swift.org) website.
 
 Other than that, I like taking each day as it comes.
