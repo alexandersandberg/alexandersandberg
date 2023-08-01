@@ -1,1 +1,1 @@
-[https://alexandersandberg.com/bio](https://alexandersandberg.com/bio)
+[alexandersandberg.com/bio](https://alexandersandberg.com/bio)
