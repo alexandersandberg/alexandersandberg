@@ -1,1 +1,1 @@
-Product-minded iOS/macOS Engineer · [alexandersandberg.com/bio](https://alexandersandberg.com/bio)
+Software tinkerer ✦ Building carefully crafted Swift and SwiftUI apps ✦ [alexandersandberg.com/about](https://alexandersandberg.com/about/)
